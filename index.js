@@ -3,6 +3,11 @@
 const express = require('express');
 const app = express();
 
+/*
+* app is the single express application, we are performing a get request
+* for whatever information is at '/', which happens to be our res (response)
+* which for now is just the one line of json
+*/
 app.get('/', (req, res) => {
   res.send({ hello: 'express' });
 });

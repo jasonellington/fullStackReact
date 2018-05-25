@@ -1,8 +1,10 @@
 # Express/Node Server
-This is a Sandbox for creating a base layer of a full-stack React Application. The steps involved are getting your instance of the Express/Node API working and deploying the application to Heroku.
+This is a Sandbox for creating a base server-layer for a full-stack React Application or any Node.js app. The steps involved are getting your instance of the Express/Node API working and deploying the application to Heroku.
 
-### Getting Started
+## Getting Started
 ```
 > npm install
 > node index.js
 ```
+
+## Setting Up Heroku (Optional)

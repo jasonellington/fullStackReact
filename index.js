@@ -14,7 +14,7 @@ const app = express();
 * callbackURL is what is used after the user grants permission
 * we then tell the app "it is okay to use google" the app then
 * uses the callback function is say "yes I am allowed to use google"
-* and then it retrieves the avaiable data
+* and then it retrieves the avaiable data.
 */
 passport.use(
   new GoogleStrategy(

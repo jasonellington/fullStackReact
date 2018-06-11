@@ -4,8 +4,10 @@ This is a repo that has useful plugins for a node.js and mongodb backend. Some s
 ## Getting Started
 ```
 > npm install
-> npm run start
+> npm run dev
 ```
+
+## FIX KEYSSSSS ---
 You should have an express server running at localhost:5000... read the code for further detail about how all of this works.
 
 ## Setting Up Heroku (Optional)
